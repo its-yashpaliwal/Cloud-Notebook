@@ -13,13 +13,25 @@ Welcome to the Cloud Notebook Application! This project showcases a dynamic clou
 
 - **Efficient Data Storage:** MongoDB is employed as the database of choice, offering efficient storage and enabling smooth CRUD operations. This choice ensures optimal performance when dealing with note data.
 
+
+
+## Screenshots
+### Login/Signup
+![Screenshot (15)](https://github.com/its-yashpaliwal/Cloud-Notebook/assets/91716186/a52e2f14-1718-4c99-ae5c-07ae550a0469)
+
+### Add note
+![Screenshot (16)](https://github.com/its-yashpaliwal/Cloud-Notebook/assets/91716186/c87cd1c4-00b5-4048-9c09-e36a08a21192)
+
+### Update the note
+![Screenshot (17)](https://github.com/its-yashpaliwal/Cloud-Notebook/assets/91716186/a1343f5e-b410-4331-ad64-f76585645fe1)
+
+
 ## Install dependencies for both the front-end and back-end:
 ```bash
 
 $ npm install
 $ cd Cloud-Notebook/backend
 $ npm install
-
 
 
 
